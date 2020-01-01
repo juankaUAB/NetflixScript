@@ -1,0 +1,48 @@
+13 Reasons Why,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2017,99,80
+Alice Through the Looking Glass,PG,fantasy action/peril and some language,60,2016,96,80
+Arrow,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2015,96,80
+Atlantis: The Lost Empire,PG,action violence,60,2001,96,80
+Better Call Saul,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2016,95,80
+Blue Bloods,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,95,80
+Bones,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,97,80
+Breaking Bad,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2013,97,80
+Coraline,PG,thematic elements-scary images-some language and suggestive humor,60,2009,95,80
+Criminal Minds,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,98,80
+Dexter,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2013,95,80
+Family Guy,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2015,98,80
+Finding Dory,PG,mild thematic elements,60,2016,98,80
+Friends,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2003,98,80
+Gossip Girl,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2012,96,80
+Grey's Anatomy,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,98,80
+Hawaii Five-0,TV-14,dialogue-language-sexual situations and violence,90,2016,96,80
+Homeward Bound: The Incredible Journey,G,General Audiences. Suitable for all ages.,35,1993,96,80
+How to Get Away with Murder,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,95,80
+Ingobernable,TV-MA,,110,2017,96,80
+Kevin Hart: What Now?,R,some sexual material-and language throughout,100,2016,97,80
+Kubo and the Two Strings,PG,thematic elements-scary images-action and peril,60,2016,96,80
+Last Man Standing,TV-PG,Parental guidance suggested. May not be suitable for all children.,70,2015,97,80
+Law & Order: Special Victims Unit,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2015,97,80
+Lilo & Stitch,PG,mild sci-fi action,60,2002,95,80
+London Has Fallen,R,strong violence and language throughout,100,2016,96,80
+Lost,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2010,98,80
+Marvel's Iron Fist,TV-MA,,110,2017,98,80
+Marvel's Luke Cage,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2016,95,80
+Minions,PG,action and rude humor,60,2015,96,80
+NCIS,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,97,80
+Once Upon a Time,TV-PG,Parental guidance suggested. May not be suitable for all children.,70,2016,98,80
+Orange Is the New Black,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2016,98,80
+Pretty Little Liars,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,96,80
+Prison Break,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2008,98,80
+Shameless (U.S.),TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2016,97,80
+Sherlock,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,95,80
+Supernatural,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,95,80
+Tarzan,G,General Audiences. Suitable for all ages.,35,1999,95,80
+The 100,NR,This movie has not been rated.,124,2016,97,80
+The BFG,PG,for action/peril-some scary moments and brief rude humor,60,2016,97,80
+The Blacklist,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,96,80
+The Emperor's New Groove,G,General Audiences. Suitable for all ages.,35,2000,95,80
+The Flash,TV-PG,Parental guidance suggested. May not be suitable for all children.,70,2016,98,80
+The Jungle Book,PG,for some sequences of scary action and peril,60,2016,97,80
+The Office (U.S.),TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2012,97,80
+The Walking Dead,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2015,98,80
+Zootopia,PG,some thematic elements-rude humor and action,60,2016,97,80

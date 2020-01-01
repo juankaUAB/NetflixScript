@@ -1,0 +1,38 @@
+90210,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2013,62,80
+Absolutely Fabulous,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2012,59,80
+Army Wives,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2013,61,80
+Balto,G,General Audiences. Suitable for all ages.,35,1995,64,80
+Being Human (U.S.),TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2014,58,80
+Bitten,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2016,56,80
+Brickleberry,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2014,63,80
+Brother Bear 2,G,General Audiences. Suitable for all ages.,35,2006,57,80
+Bunk'd,TV-G,Suitable for all ages.,35,2016,61,80
+Californication,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2014,63,80
+Cheer Squad,TV-PG,,70,2016,61,80
+Curious George,G,General Audiences. Suitable for all ages.,35,2006,55,80
+DreamWorks Shrek's Swamp Stories,TV-PG,Parental guidance suggested. May not be suitable for all children.,70,2008,56,80
+Fantasia,G,General Audiences. Suitable for all ages.,35,1940,61,80
+Girlfriends' Guide to Divorce,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2015,63,80
+Greenleaf,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,62,80
+Hannah Montana: The Movie,G,General Audiences. Suitable for all ages.,35,2009,56,80
+Hap and Leonard,TV-MA,,110,2016,57,80
+Harry and the Hendersons,PG,Parental guidance suggested. May not be suitable for children.,60,1987,58,80
+Haters Back Off,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,58,80
+High School Musical 2,TV-G,Suitable for all ages.,35,2007,58,80
+High School Musical,TV-G,Suitable for all ages.,35,2006,64,80
+How to Lose a Guy in 10 Days,PG-13,some sex-related material,80,2003,56,80
+Hunter X Hunter (2011),NR,This movie has not been rated.,124,2013,57,80
+Life Unexpected,TV-PG,Parental guidance suggested. May not be suitable for all children.,70,2010,55,80
+Little Boxes,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,61,80
+Pocahontas II: Journey to a New World,TV-G,Suitable for all ages.,35,1998,64,80
+PokÃ©mon: XY,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,42,2015,56,80
+Portlandia,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,62,80
+Safe Haven,PG-13,thematic material involving threatening behavior-and for violence and sexuality,80,2013,62,80
+Spy Kids 3: Game Over,PG,action sequences and peril,60,2003,64,80
+Star Wars: The Clone Wars,PG,sci-fi action violence throughout-brief language and momentary smoking,60,2008,57,80
+Step Up,PG-13,thematic elements-brief violence and innuendo,80,2006,64,80
+Talking Tom and Friends,TV-G,Suitable for all ages.,35,2016,61,80
+The Doctor Blake Mysteries,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2016,57,80
+The Fall,TV-MA,For mature audiences.  May not be suitable for children 17 and under.,110,2016,61,80
+The Pirate Fairy,G,General Audiences. Suitable for all ages.,35,2014,57,80
+Trouble with the Curve,PG-13,Parents strongly cautioned. May be inappropriate for children under 13.,80,2012,63,80

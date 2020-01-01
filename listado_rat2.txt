@@ -1,0 +1,42 @@
+10 Things I Hate About You,PG-13,adult content-adult language and mild violence,80,1999,68,80
+30 Rock,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2012,66,80
+All Hail King Julien,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,42,2016,71,80
+An American Tail,G,General Audiences. Suitable for all ages.,35,1986,67,80
+An Extremely Goofy Movie,G,General Audiences. Suitable for all ages.,35,1999,67,80
+Animaniacs,TV-Y7,Suitable for children ages 7 and older,41,1997,72,80
+Annie,PG,adult content and mld violence,60,1982,68,80
+Baby's Day Out,PG,mild language and comic action,60,1994,71,80
+Cars Toons: Mater's Tall Tales,TV-G,Suitable for all ages.,35,2010,74,80
+Crossing Lines,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2015,66,80
+D2: The Mighty Ducks,PG,some mild language and rough hockey action,60,1994,70,80
+Dawn of the Croods,TV-Y7,Suitable for children ages 7 and older,41,2017,72,80
+FernGully: The Last Rainforest,G,General Audiences. Suitable for all ages.,35,1992,70,80
+H2O: Just Add Water,TV-PG,Parental guidance suggested. May not be suitable for all children.,70,2009,74,80
+Heavyweights,PG,some rude language and pranks,60,1995,74,80
+Justice League,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,42,2003,66,80
+LEGO Ninjago: Masters of Spinjitzu,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,42,2015,67,80
+Life in Pieces,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2015,68,80
+Little Einsteins,TV-Y,Suitable for all ages.,10,2007,70,80
+Louis C.K. 2017,TV-MA,,110,2017,71,80
+Luther,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2015,69,80
+Madam Secretary,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,70,80
+Mighty Morphin Power Rangers,TV-Y7-FV,Suitable for children ages 7 and older.  Content contains fantasy violence.,42,2010,73,80
+Open Season: Scared Silly,PG,rude humor and some action,60,2015,72,80
+Paddington,PG,mild action and rude humor,60,2014,70,80
+Pocoyo,TV-Y,Suitable for all ages.,10,2007,67,80
+PokÃ©mon: Indigo League,TV-Y,Suitable for all ages.,10,2000,74,80
+Raising Hope,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2013,73,80
+Ratchet and Clank,PG,action and some rude humor,60,2016,74,80
+Schitt's Creek,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,74,80
+Secret of the Wings,G,General Audiences. Suitable for all ages.,35,2012,65,80
+Skin Wars,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,69,80
+Super Why!,TV-Y,Suitable for all ages.,10,2015,68,80
+The Carmichael Show,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,69,80
+The Fosters,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,73,80
+The Great Gilly Hopkins,PG,for thematic material and language,60,2016,69,80
+The Killing,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2014,73,80
+The Little Prince,PG,mild thematic elements,60,2015,71,80
+The Originals,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2016,74,80
+The Real Ghostbusters,TV-Y7,Suitable for children ages 7 and older,41,1990,65,80
+Touch,TV-14,Parents strongly cautioned. May be unsuitable for children ages 14 and under.,90,2012,68,80
+Young Justice,TV-PG,Parental guidance suggested. May not be suitable for all children.,70,2012,71,80
